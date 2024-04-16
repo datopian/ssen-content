@@ -24,6 +24,10 @@ We want to engage with you to understand your needs and data dependencies. To ge
 
 To find out more about Scottish and Southern Electricity Networks please visit our home page at https://www.ssen.co.uk.
 
+## What if I need additional support and help when using the Data Portal?
+SSEN Distribution utilises Recite Me assistive technology on our data portal, which enables our visitors to customise their experience in a way that best suits their individual needs.
+[Recite Me](https://reciteme.com/news/digital-accessibility/) believes in accessibility for all, allowing everyone the opportunity to use the internet in the way that it is intended.
+
 ## Where is the data portal hosted?
 The SSEN Distribution Data Portal is currently hosted on Datopian Servers.
 
