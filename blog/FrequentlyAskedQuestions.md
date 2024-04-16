@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 ## What are we doing?
 
 Our Data Portal is a single point of access to all the data Scottish and Southern Electricity Networks publishes. This catalogue of data will bring visibility to our network assets, their location, their usage, and their performance.
@@ -28,7 +30,12 @@ To find out more about Scottish and Southern Electricity Networks please visit o
 SSEN Distribution utilises Recite Me assistive technology on our data portal, which enables our visitors to customise their experience in a way that best suits their individual needs.
 [Recite Me](https://reciteme.com/news/digital-accessibility/) believes in accessibility for all, allowing everyone the opportunity to use the internet in the way that it is intended.
 
-## Where is the data portal hosted?
+___
+
+<details>
+    <Summary><h1>Frequently Asked Questions</h1></Summary>
+  
+## :grey_question: Where is the data portal hosted?
 The SSEN Distribution Data Portal is currently hosted on Datopian Servers.
 
 ## Can I trust the data?
@@ -74,3 +81,6 @@ In alignment with data best practice we will aim to meet reasonable expectations
 
 ## Why have you chosen CKAN for your data portal?
 We have built our data portal on CKAN allowing us to display our data in a user-friendly environment and allow our data consumers to use data in a meaningful way. CKAN has been used extensively by our Open Data Peers and Partners and allows us to tailor our portal, to serve you. 
+</details>
+
+<a name="top"></a>
