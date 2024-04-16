@@ -43,23 +43,23 @@ SSEN Distribution have opted to use the Creative Commons International Licence f
 
 ## What controls do you have in place around GDPR and personal data?
 SSEN Distribution is committed to collecting and using personal data responsibly, securely and fairly. We want people to understand how we use their data and to become a trusted partner with our customers; we protect the personal data of our employees to the same high standards. We ensure that our handling of personal data is carried out in compliance with:
-•	The General Data Protection Regulation 2016, the Data Protection Act 2018, and the Data Protection Act 2018 (Ire); and 
-•	The Privacy and Communications Regulations 2003/E Privacy Regulation 2011 (Ire)·
-•	Policies and procedures put in place by SSE’s Data Protection Officer
+-	The General Data Protection Regulation 2016, the Data Protection Act 2018, and the Data Protection Act 2018 (Ire); and 
+-	The Privacy and Communications Regulations 2003/E Privacy Regulation 2011 (Ire)·
+-	Policies and procedures put in place by SSE’s Data Protection Officer
 Please find more information on our Privacy Notice [here](https://www.ssen.co.uk/privacy-notice/).
 
 ## How do I inform you that I want some data removed because I believe it is personal or sensitive data?
 You can contact the Data Portal team directly at data@ssen.co.uk 
-If you would like to contact us in relation to your rights, or if you are unhappy with how we’ve handled your information, you may contact us as follows:
-Email: distributiondataprotection@sse.com
-Address: Distribution Data Protection Team, 2nd Floor, SSEN, Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ.
-If you would like to contact our Data Protection Officer, you may do so using the following details:
-Email: GroupDPO@sse.com
-Address: Data Protection Officer, No. 1 Forbury Place, 43 Forbury Road, Reading, RG1 3JH.
-If you’re not satisfied with our response to any complaint or believe our processing of your information does not comply with data protection law, you can make a complaint to the Information Commissioner’s Office (ICO) using the following details:
-Address: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.
-Telephone Number: 0303 123 1113.
-Website: https://www.ico.org.uk
+- If you would like to contact us in relation to your rights, or if you are unhappy with how we’ve handled your information, you may contact us as follows:
+  - Email: distributiondataprotection@sse.com
+  - Address: Distribution Data Protection Team, 2nd Floor, SSEN, Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ.
+- If you would like to contact our Data Protection Officer, you may do so using the following details:
+  - Email: GroupDPO@sse.com
+  - Address: Data Protection Officer, No. 1 Forbury Place, 43 Forbury Road, Reading, RG1 3JH.
+- If you’re not satisfied with our response to any complaint or believe our processing of your information does not comply with data protection law, you can make a complaint to the Information Commissioner’s Office (ICO) using the following details:
+  - Address: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.
+  - Telephone Number: 0303 123 1113.
+  - Website: https://www.ico.org.uk
 
 ## Who are you working with to make data open and accessible?
 SSEN Distribution have been working with Icebreaker One to understand what we can do to best engage with Open Data. This includes considering a number of factors such as Data Sharing Use Cases, Technology Requirements, Data Flows, Critical Roles and Stakeholders, as well as our data platforms, data assets, and key barriers to engagement. 
