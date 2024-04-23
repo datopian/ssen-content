@@ -644,27 +644,27 @@ The Data Roadmap promotes open collaboration and transparent data sharing with s
 
 **The SSEN Data Portal and Data Roadmap is open to everyone, including:**
 
-▪  Academia & Research Bodies
-▪  Battery Storage Owners
-▪  Commercial Aggregator
-▪  Community Aggregator
-▪  Consultancies
-▪  Consumer Advocacy Groups
-▪  Critical National Infrastructure
-▪  Distributed Generators
-▪  Distrubution Network Operators
-▪  Domestic Aggregator
-▪  Electricity Storage Providers
-▪  Electrical System Operator 
-▪  Gas Distrubution Networks
-▪  Industrial & Commercial Customers
-▪  Internal Stakeholders
-▪  Local Government/Authorities
-▪  Regulatory Bodies
-▪  Supplier Aggregator
-▪  Tranmission Operators 
-▪  Trade Associations
-▪  Flexibility Service Providers 
+- Academia & Research Bodies
+- Battery Storage Owners
+- Commercial Aggregator
+- Community Aggregator
+- Consultancies
+- Consumer Advocacy Groups
+- Critical National Infrastructure
+- Distributed Generators
+- Distrubution Network Operators
+- Domestic Aggregator
+- Electricity Storage Providers
+- Electrical System Operator 
+- Gas Distrubution Networks
+- Industrial & Commercial Customers
+- Internal Stakeholders
+- Local Government/Authorities
+- Regulatory Bodies
+- Supplier Aggregator
+- Tranmission Operators 
+- Trade Associations
+- Flexibility Service Providers 
 
 ## Some Use Cases for the Data Portal and Roadmap
 
