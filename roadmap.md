@@ -689,7 +689,7 @@ The Data Roadmap promotes open collaboration and transparent data sharing with s
 
 > 💡 **TIP**
 > 
- You can input into our data roadmap through our [request form](https://forms.office.com/e/tKYxkTWS0n) or emailing us data@ssen.co.uk 
+>  You can input into our data roadmap through our [request form](https://forms.office.com/e/tKYxkTWS0n) or emailing us data@ssen.co.uk 
 
 ## How will we continue to engage stakeholders moving forward?
 
