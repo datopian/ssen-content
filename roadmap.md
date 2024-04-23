@@ -628,72 +628,89 @@ Welcome to our comprehensive guide for our strategic business initiatives and ke
 
 ## Executive Summary
 
-In 2024, we set our sights on transformative growth, focusing on innovation in product development and enhancing our customer engagement through digital platforms. Our roadmap is designed to align with our core mission while adapting to the dynamic market environment.
+The SSEN Data Roadmap serves as the strategic plan outlining the key milestones related to data provision and management. It provides a structured path for implementing data sets and achieving data strategy goals.
 
 > 🌟 **NOTE**
 > 
-> This roadmap is a living document and may evolve based on market feedback and internal strategy shifts.
+> This roadmap is a living document and may evolve based on market and data consumer feedback and internal strategy shifts.
 
-## Key Objectives
+## Purpose of Roadmap
 
-1. **Expand into New Markets**
-   - Leverage market research to identify and enter two new international markets by Q3.
-2. **Innovate Product Line**
-   - Develop and launch three new products focusing on sustainability and technology integration.
-3. **Enhance Customer Experience**
-   - Implement a new customer service platform to improve response times and satisfaction rates.
+**The SSEN Data Roadmap serves as the strategic plan outlining the key milestones related to data provision and management. It provides a structured path for implementing data sets and achieving data strategy goals.**
 
-## Milestones
+The Data Roadmap promotes open collaboration and transparent data sharing with stakeholders. By outlining clear milestones and objectives, it creates a shared vision with stakeholders which encourages active involvement and feedback, where insights and requirements can be openly addressed. This ensures stakeholders are well informed about the data journey, promoting trust and cooperation in achieving common data-related goals.
 
-### Q1
+## Who is it for?
 
-- **Market Research Completion**
-  - Finalize research reports on potential new markets.
-- **Product Development Kickoff**
-  - Initiate development of our next-generation products.
+**The SSEN Data Portal and Data Roadmap is open to everyone, including:**
 
-> ⚠️ **WARNING**
-> 
-> Delays in market research may impact the timeline for new market entry.
+▪  Academia & Research Bodies
+▪  Battery Storage Owners
+▪  Commercial Aggregator
+▪  Community Aggregator
+▪  Consultancies
+▪  Consumer Advocacy Groups
+▪  Critical National Infrastructure
+▪  Distributed Generators
+▪  Distrubution Network Operators
+▪  Domestic Aggregator
+▪  Electricity Storage Providers
+▪  Electrical System Operator 
+▪  Gas Distrubution Networks
+▪  Industrial & Commercial Customers
+▪  Internal Stakeholders
+▪  Local Government/Authorities
+▪  Regulatory Bodies
+▪  Supplier Aggregator
+▪  Tranmission Operators 
+▪  Trade Associations
+▪  Flexibility Service Providers 
 
-### Q2
+## Some Use Cases for the Data Portal and Roadmap
 
-- **Customer Platform Beta Test**
-  - Begin beta testing of our new customer service platform with select users.
-- **Marketing Strategy Development**
-  - Craft detailed go-to-market strategies for new products.
+- Understanding how to connect, where and how much it would cost through [New electricity supplies](https://github.com/datopian/ssen-content/assets/20338818/fd3da564-4f9d-4df4-a280-9c976ef45581)
+- Visibility of near real time consumption in an area
+- Information on past and future outages
+- Monetising assets from flexibility services through [Flexible Solutions](https://www.ssen.co.uk/our-services/flexible-solutions/)
+- Future energy predictions, scenarios and plans for a local area through [Local Area Energy Planner Plus](https://www.ssen.co.uk/about-ssen/dso/whole-system/local-area-energy-planning/)
+- Technical information to help with modelling
+- Research and collaborating with other stakeholders
 
-### Q3
 
-- **New Market Entry**
-  - Officially launch operations in one new international market.
-- **Product Launch Prep**
-  - Finalize and begin production for our first new product release.
+## How did we come up with the roadmap?
 
-### Q4
+**The Data Roadmap was created looking at 5 main areas:**
 
-- **Second Product Launch**
-  - Bring our second innovative product to the market.
-- **Customer Experience Review**
-  - Evaluate the impact of the new customer service platform and implement feedback.
-
-## Strategic Initiatives
-
-- **Sustainability Efforts**
-  - Reduce carbon footprint by 25% through operational efficiencies and sustainable packaging.
-- **Digital Transformation**
-  - Accelerate digital transformation with a 50% increase in digital marketing investment.
+- Retrospective – what existing data does SSEN have that stakeholders would benefit from?
+- Prospective – what data is SSEN going to produce in the near term  that stakeholders would benefit from?
+- Stakeholder requests/feedback – obtained through direct requests via the data portal as well as stakeholder feedback from surveys, roundtables, etc 
+- Legal requirements – e.g., from a regulatory standpoint 
+- Future looking – what are customers or partners asking for in the future?
 
 > 💡 **TIP**
 > 
-> Engage with local communities in new markets to boost brand recognition and loyalty.
+ You can input into our data roadmap through our [request form](https://forms.office.com/e/tKYxkTWS0n) or emailing us data@ssen.co.uk 
 
-## Team and Roles
+## How will we continue to engage stakeholders moving forward?
 
-- **Project Managers** will oversee each major initiative, ensuring milestones are met on schedule.
-- **The Marketing Team** will develop and execute our market entry and product launch strategies.
-- **Customer Support** will manage the transition to the new platform, training staff, and ensuring a seamless customer experience.
+- Regular Updates – provide consistent and transparent updates on the progress of the data roadmap. Visualised reports will be used to present data roadmap progress, what has been published and what is to come 
+- Feedback mechanisms– we will continue to collect stakeholder feedback from our feedback form on the data portal as well as through stakeholder surveys and other dedicated channels. We will act on the feedback in a  timely manner to demonstrate responsiveness and adaptability 
+- Stakeholder Forums – we are creaating forums and discussion groups on the data portal where stakeholders can share their perspectives and ideas on the data roadmap and what they would like to see included, fostering a sense of shared ownership
+- Providing tailored information to stakeholders-  use cases and the target audience for all data sets are included with the data sets based on interest and relevance to various stakeholder groups 
+- Accessibility  – ensure that information about the data roadmap is easily accessible to all stakeholders to support understanding and engagement through the use of appropriate documentation e.g video demonstrations, etc
+- Demonstrate value – highlight the value generated from completed phases of the roadmap, showing tangible benefits e.g improved data accessibility, etc which will be shown through our regular updates on our Digital Action Plan.
 
-## Conclusion
+## How does the roadmap link to the Digital Strategy and Action Plan?
 
-Our 2024 roadmap lays the foundation for a pivotal year in our company's history. By focusing on market expansion, product innovation, and enhancing the customer experience, we are poised for success. We look forward to the dedication and creativity of our team to bring these plans to fruition.
+As mentioned in our [Digital Strategy](https://www.ssen.co.uk/about-ssen/digital-strategy/our-digital-strategy/), our role in the future energy system is driven by Digital and Data. The move to a flexible, decentralised energy system would not be possible without making our systems  and processes more digital and improving our ability to use and share data.  Hence, our Data portal and Data Roadmap are imperative. We have created the Data Roadmap as a forward looking view of our data as we aim to share data in an open and transparent way and want to gain feedback on what's to come as we want to ensure our portal has the right data our stakeholders want, to a quality they want, and ensure we are improving how we think about and handle data within our business.
+
+Our Digital strategy sits alongside our [Digital Action Plan](https://www.ssen.co.uk/about-ssen/digital-strategy/our-digital-action-plan/), which we update every 
+6 months and gives you the detail on when we will deliver our products and services and how we will be measured on their performance. Therefore, you will be able to see regular updates on how we are delivering our Data Portal and Data Roadmap as well as the value they have generated.
+
+## What if I need additional support and help? 
+
+For customers who may require additional assistance, please access the Recite Me Web Accessibility and Language Toolbar on our website: 
+
+www.ssen.co.uk/about-ssen/customer-support/digital-accessibility-on-reciteme/  
+
+Your satisfaction is important to us and we are committed to providing the support that you need to make the most out of our services.
