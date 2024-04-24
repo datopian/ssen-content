@@ -8,7 +8,7 @@ We are aiming to engage with all our data consumers from local authorities, our 
 
 Our data spans both of our licence areas across the North of Scotland and South of England.
 
-Our electricity distribution network delivers power to over 3.8 million homes and businesses across the diverse and unique geographies of the north of Scotland and central southern England.
+Our electricity distribution network delivers power to over 3.9 million homes and businesses across the diverse and unique geographies of the north of Scotland and central southern England.
 
 ![image](https://github.com/datopian/ssen-content/assets/20338818/c1fa5659-2f67-4646-bd9f-0d399cb592e8)
 
