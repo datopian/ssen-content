@@ -10,9 +10,7 @@ Our data spans both of our licence areas across the North of Scotland and South 
 
 Our electricity distribution network delivers power to over 3.8 million homes and businesses across the diverse and unique geographies of the north of Scotland and central southern England.
 
-![Network-Statistics](https://github.com/datopian/ssen-content/assets/20338818/c7532f5d-1f72-4fc0-addf-3595008e20d8)
-![SHEPDLicenceArea](https://github.com/datopian/ssen-content/assets/20338818/125886ce-62c5-45aa-b4fd-6b787708d1b9)
-![SEPDLicenceArea](https://github.com/datopian/ssen-content/assets/20338818/e6a9fee0-75e3-4265-88d2-8f9f943c5d44)
+![image](https://github.com/datopian/ssen-content/assets/20338818/c1fa5659-2f67-4646-bd9f-0d399cb592e8)
 
 We have built our data portal on CKAN allowing us to display our data in a user-friendly environment and allow our data consumers to use data in a meaningful way. CKAN has been used extensively by our Open Data Peers and Partners and allows us to tailor our portal, to serve you.
 
