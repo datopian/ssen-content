@@ -30,8 +30,7 @@ SSEN Distribution utilises Recite Me assistive technology on our data portal, wh
 
 ___
 
-<details>
-    <Summary><h1>Frequently Asked Questions</h1></Summary>
+<h1>Frequently Asked Questions</h1>
   
 ## :grey_question: Where is the data portal hosted?
 The SSEN Distribution Data Portal is currently hosted on Datopian Servers.
@@ -79,6 +78,4 @@ In alignment with data best practice we will aim to meet reasonable expectations
 
 ## Why have you chosen CKAN for your data portal?
 We have built our data portal on CKAN allowing us to display our data in a user-friendly environment and allow our data consumers to use data in a meaningful way. CKAN has been used extensively by our Open Data Peers and Partners and allows us to tailor our portal, to serve you. 
-</details>
-
 <a name="top"></a>
