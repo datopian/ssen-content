@@ -11,14 +11,22 @@ Some insight from this data can be seen below...
 Insert Vega Graph 
 
 <Vega
-  data={{
-    "name": "world",
-    "url": "data/world-110m.json",
-    "format": {
-      "type": "topojson",
-      "feature": "countries"
+  data={[
+    {
+      "name": "world",
+      "url": "data/world-110m.json",
+      "format": {
+        "type": "topojson",
+        "feature": "countries"
+      }
+    },
+    {
+      "name": "graticule",
+      "transform": [
+        { "type": "graticule" }
+      ]
     }
-  }}
+  ]}
   spec={{
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "A configurable map of countries of the world.",
@@ -102,10 +110,7 @@ Insert Vega Graph
       "name": "world"
     },
     {
-      "name": "graticule",
-      "transform": [
-        { "type": "graticule" }
-      ]
+      "name": "graticule"
     }
   ],
 
