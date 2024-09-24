@@ -1,5 +1,7 @@
 # SSEN Substation Data
+
 SSEN Distribution has published it's Substation data.
+
 This dataset contains information about...
 
 This is useful because...
@@ -7,7 +9,17 @@ This is useful because...
 Some insight from this data can be seen below...
 
 Insert Vega Graph 
-<Vega Spec={{
+
+<Vega
+  data={{
+    "name": "world",
+    "url": "data/world-110m.json",
+    "format": {
+      "type": "topojson",
+      "feature": "countries"
+    }
+  }}
+  spec={{
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "A configurable map of countries of the world.",
   "width": 900,
@@ -87,12 +99,7 @@ Insert Vega Graph
 
   "data": [
     {
-      "name": "world",
-      "url": "data/world-110m.json",
-      "format": {
-        "type": "topojson",
-        "feature": "countries"
-      }
+      "name": "world"
     },
     {
       "name": "graticule",
