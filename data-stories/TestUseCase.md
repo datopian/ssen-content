@@ -2,14 +2,7 @@
 
 This visualization shows energy consumption over time by region.
 
-<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-
-<div id="vis"></div>
-
-<script type="text/javascript">
-  const spec = {
+<Vega Spec={{
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A simple line chart showing energy consumption over time by region.",
     "data": {
@@ -22,7 +15,4 @@ This visualization shows energy consumption over time by region.
       "y": {"field": "EnergyConsumption", "type": "quantitative"},
       "color": {"field": "Region", "type": "nominal"}
     }
-  };
-
-  vegaEmbed('#vis', spec);
-</script>
+  }} />;
