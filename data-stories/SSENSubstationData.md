@@ -146,5 +146,5 @@ Insert Vega Graph
       ]
     }
   ]
-}
-}/>
+  }}
+/>
