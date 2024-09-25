@@ -18,24 +18,7 @@ Below is the preview of the data above:
 
 ⚠️ Note that I took URL from Download button on the resource page to use for the component above.
 
-<Vega
-  data={[
-    {
-      "name": "world",
-      "url": "data/world-110m.json",
-      "format": {
-        "type": "topojson",
-        "feature": "countries"
-      }
-    },
-    {
-      "name": "graticule",
-      "transform": [
-        { "type": "graticule" }
-      ]
-    }
-  ]}
-  spec={{
+<Vega spec={{
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "A configurable map of countries of the world.",
   "width": 900,
@@ -115,10 +98,18 @@ Below is the preview of the data above:
 
   "data": [
     {
-      "name": "world"
+      "name": "world",
+      "url": "data/world-110m.json",
+      "format": {
+        "type": "topojson",
+        "feature": "countries"
+      }
     },
     {
-      "name": "graticule"
+      "name": "graticule",
+      "transform": [
+        { "type": "graticule" }
+      ]
     }
   ],
 
