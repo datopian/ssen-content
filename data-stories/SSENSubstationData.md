@@ -10,11 +10,7 @@ https://portal-dev.sse.datopian.com/@ssen-distribution/substation-data-test/r/a1
 
 Below is the preview of the data above:
 
-<FlatUiTable
-  data={{
-    "url": "https://ckan-dev.sse.datopian.com/dataset/c1106ca1-49b5-4dda-9889-ed1d74026407/resource/a15a77d1-2d31-4d80-9a96-9a594911cd2a/download/ssen-substation-data-3.csv"
-  }}
- />
+TODO
 
 ⚠️ Note that I took URL from Download button on the resource page to use for the component above.
 
