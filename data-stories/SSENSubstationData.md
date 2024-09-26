@@ -1,4 +1,18 @@
+# SSEN Substation Data
 
+SSEN Distribution has published it's Substation data.
+
+We are going to consider the following resource from our Dev environment:
+
+https://portal-dev.sse.datopian.com/@ssen-distribution/substation-data-test/r/a15a77d1-2d31-4d80-9a96-9a594911cd2a
+
+⚠️ You need to be logged in to see the page above.
+
+Below is the preview of the data above:
+
+TODO
+
+⚠️ Note that I took URL from Download button on the resource page to use for the component above.
 
 <Vega spec={{
   "$schema": "https://vega.github.io/schema/vega/v5.json",
