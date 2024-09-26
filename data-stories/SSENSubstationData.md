@@ -95,7 +95,7 @@ TODO
   "data": [
     {
       "name": "world",
-      "url": "https://raw.githubusercontent.com/vega/vega-datasets/refs/heads/main/data/world-110m.json",
+      "url": "https://raw.githubusercontent.com/vega/vega-datasets/main/data/world-110m.json",
       "format": {
         "type": "topojson",
         "feature": "countries"
