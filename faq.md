@@ -1,5 +1,7 @@
 ## What are we doing?
 
+New
+
 Our Data Portal is a single point of access to all the data Scottish and Southern Electricity Networks publishes. This catalogue of data will bring visibility to our network assets, their location, their usage, and their performance.
 
 We are aiming to engage with all our data consumers from local authorities, our supply chain, flexibility providers, energy suppliers and anyone with an interest in achieving net zero.
