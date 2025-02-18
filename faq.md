@@ -77,5 +77,4 @@ In alignment with data best practice we will aim to meet reasonable expectations
 ## Why have you chosen CKAN for your data portal?
 We have built our data portal on CKAN allowing us to display our data in a user-friendly environment and allow our data consumers to use data in a meaningful way. CKAN has been used extensively by our Open Data Peers and Partners and allows us to tailor our portal, to serve you. 
 
-## Data Portal how to guides
-Please see the link [here](https://github.com/user-attachments/files/18847909/Portal_guide.pdf) for guides to navigating and using SSEN Distributions Data Portal.
+
