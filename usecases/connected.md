@@ -17,9 +17,9 @@
 <details>
   <summary> <b>What can SSEN's data help me with?</b></summary>
   
-  | **Large Energy User** | **Commercial Business** |
+  | **Aggregator** | **Commercial Business** |
   | :-------------------: | :---------------------: |
-  | Keith operates a manufacturing plant that consumes large amounts of electricity which can vary significantly throughout the day. | Claire works for national home builder, ‘Harvey Homes’ as a Utilities Planner. She needs to understand the potential problems for connecting new homes to the grid well in advance. |
+  | David is the CEO of a flex aggregator company. He builds portfolios of flexible energy resources and trades them in energy markets. | Claire works for national home builder, ‘Harvey Homes’ as a Utilities Planner. She needs to understand the potential problems for connecting new homes to the grid well in advance. |
 
  | **Battery Storage Owner** | **Distribution Generation Customer** | **Large Energy User** |
   | :-----------------: | :-------------------: | :---------------------: |
