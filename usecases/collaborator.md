@@ -1,3 +1,7 @@
+---
+title: Use Cases - Collaborator
+---
+
 # Collaborator 
 ## “I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs, Local Authorities etc.”
 
