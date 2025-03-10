@@ -5,19 +5,23 @@ title: Use Cases - Collaborator
 # Collaborator 
 ## “I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs, Local Authorities etc.”
 
-> [!info]- What can SSEN's data help me with?
->  * Understand future energy predictions, scenarios and plans for my local area
->  * Plan energy usage by area, so I need to know plans on the rollout of EV charge points for public use
->  * Understand future forecasts
->  * Know what flexibility is needed in what area and when
->  * Know what flexibility has been purchased in the past
->  * Understand how your control room will deconflict with the NESO control room
->  * Know what your future flexibility strategy, development and innovation plans are
+<details>
+  <summary> <b>What can SSEN's data help me with?</b></summary>
+  
+ * Understand future energy predictions, scenarios and plans for my local area
+ * Plan energy usage by area, so I need to know plans on the rollout of EV charge points for public use
+ * Understand future forecasts
+ * Know what flexibility is needed in what area and when
+ * Know what flexibility has been purchased in the past
+ * Understand how your control room will deconflict with the NESO control room
+ * Know what your future flexibility strategy, development and innovation plans are
+
+</details>
 
 ---
 
 <details>
-  <summary> <b>What can SSEN's data help me with?</b></summary>
+  <summary> <b>What type of Users could benefit from this data?</b></summary>
   
   | **System Network Operator** | **Local Authority** | **Aggregator** | **Commercial Business** |
   | :-----------------: | :-------------------: | :---------------------: | :---------------------: |
