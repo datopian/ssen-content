@@ -3,6 +3,7 @@
 
 <details>
   <summary> <b>What can SSEN's data help me with?</b></summary>
+  
   * Understand how I can monetise my assets from flexibility services
   * Know when I am likely to be called upon as a provider of flexibility services
   * Decide the right price when looking at bidding into a flexibility service
