@@ -3,15 +3,16 @@
 
 <details>
   <summary> <b>What can SSEN's data help me with?</b></summary>
- * Understand how I can monetise my assets from flexibility services
- * Know when I am likely to be called upon as a provider of flexibility services
- * Decide the right price when looking at bidding into a flexibility service
- * Know what flexibility services have been dispatched
- * Understand planned reinforcements that relate to my application
- * See information on past and future outages
- * Know about Constraint Management Zone (CMZ) restrictions
- * Know what else is within my region
- * Know what is the forecasting growth
+  * Understand how I can monetise my assets from flexibility services
+  * Know when I am likely to be called upon as a provider of flexibility services
+  * Decide the right price when looking at bidding into a flexibility service
+  * Know what flexibility services have been dispatched
+  * Understand planned reinforcements that relate to my application
+  * See information on past and future outages
+  * Know about Constraint Management Zone (CMZ) restrictions
+  * Know what else is within my region
+  * Know what is the forecasting growth
+  
 </details>
 
 ---
