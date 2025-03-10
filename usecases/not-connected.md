@@ -1,15 +1,18 @@
 # Not Connected
 ## "I want to connect to the network, and I am not sure where to start."
 
-> [!info] + What can SSEN's data help me with?
->  * Understand how to connect, where and how much it would cost me.
->  * See Visibility of near real time consumption in my area.
->  * See technical information to help me with modelling. 
+<details>
+  <summary> <b>What can SSEN's data help me with?</b></summary>
+ * Understand how to connect, where and how much it would cost me.
+ * See Visibility of near real time consumption in my area.
+ * See technical information to help me with modelling. 
+
+</details>
 
 ---
 
 <details>
-  <summary> <b>What can SSEN's data help me with?</b></summary>
+  <summary> <b>What type of Users could benefit from this data?</b></summary>
   
   | **Local Authority** | **Domestic Customer** | **Commercial Business** |
   | :-----------------: | :-------------------: | :---------------------: |
