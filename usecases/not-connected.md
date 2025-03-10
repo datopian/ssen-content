@@ -3,6 +3,7 @@
 
 <details>
   <summary> <b>What can SSEN's data help me with?</b></summary>
+  
   * Understand how to connect, where and how much it would cost me.
   * See Visibility of near real time consumption in my area.
   * See technical information to help me with modelling. 
