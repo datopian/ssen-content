@@ -1,18 +1,20 @@
 # I know exactly what I want
 ## “I know exactly what data I am looking for and just need access to it”
 
-> [!info]- What can SSEN's data help me with?
->  * Be able to find data as easily as possible
->  * Be able to download, read and interpret data in an easy way
->  * Be able to contact SSEN about what this data means to me
->  * Access the information without cost
->  * Access without needing delayed permissions
+<details>
+  <summary> <b>What can SSEN's data help me with?</b></summary>
+ * Be able to find data as easily as possible
+ * Be able to download, read and interpret data in an easy way
+ * Be able to contact SSEN about what this data means to me
+ * Access the information without cost
+ * Access without needing delayed permissions
 
+</details>
 
 ---
 
 <details>
-  <summary> <b>What can SSEN's data help me with?</b></summary>
+  <summary> <b>What type of Users could benefit from this data?</b></summary>
   
   | **System Network Operator** | **Local Authority** | **Aggregator** | **Commercial Business** |
   | :-----------------: | :-------------------: | :---------------------: | :---------------------: |
