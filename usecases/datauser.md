@@ -3,6 +3,7 @@
 
 <details>
   <summary> <b>What can SSEN's data help me with?</b></summary>
+  
   * Be able to find data as easily as possible
   * Be able to download, read and interpret data in an easy way
   * Be able to contact SSEN about what this data means to me
