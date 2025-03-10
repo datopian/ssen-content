@@ -1,7 +1,7 @@
 # Connected
 ## “I am connected to the network, and I want to learn more about utilising my assets and connection”
 
-> [!info]- What can SSEN's data help me with?
+> [!info]+ What can SSEN's data help me with?
 >  * Understand how I can monetise my assets from flexibility services
 >  * Know when I am likely to be called upon as a provider of flexibility services
 >  * Decide the right price when looking at bidding into a flexibility service
