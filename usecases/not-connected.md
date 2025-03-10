@@ -1,7 +1,7 @@
 # Not Connected
 ## "I want to connect to the network, and I am not sure where to start."
 
-> [!info]- What can SSEN's data help me with?
+> [!info] + What can SSEN's data help me with?
 >  * Understand how to connect, where and how much it would cost me.
 >  * See Visibility of near real time consumption in my area.
 >  * See technical information to help me with modelling. 
