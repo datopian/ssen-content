@@ -1,5 +1,6 @@
 # Personas
 ## This page provides link to guidance for common data consumer types. 
+### Please click on one of the boxes below to ge more insight for each persona type.
 
 <centre> 
 <table>
