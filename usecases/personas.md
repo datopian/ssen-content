@@ -1,4 +1,4 @@
-# Use Cases
+# Personas
 ## This page provides link to guidance for common data consumer types. 
 
 <centre> 
