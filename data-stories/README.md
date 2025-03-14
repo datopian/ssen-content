@@ -13,7 +13,7 @@ We made this aggregated data available for everyone through our specially develo
 Having made this data accessible, we then addressed what else we could do to harness its value. 
 
 That’s where our Data Surgeries came in. We decided to hold these events to conduct ‘deep dives’ into the data assets we have put on the portal. This means we can help boost the knowledge and confidence of people who are keen to use our data, while also learning more about how it’s being employed.
-![ssen-dots](https://github.com/user-attachments/assets/5d3fc03f-1663-437b-bae2-a93a12981120)
+
 
 ## Smart Meter Data Surgery 
 ### The first surgery we held focused specifically on smart meter data, and sought to explain:
@@ -40,8 +40,6 @@ The event gave us great insights too, as we gained a better understanding of how
 •	We were able to get a good sense of the extent of engagement with - and understanding of - the data we provide. 
 
 •	We got useful user feedback which will help us make further improvements. 
-
-![ssen-dots](https://github.com/user-attachments/assets/5d3fc03f-1663-437b-bae2-a93a12981120)
 
 The ability to talk directly to our users at the surgery was very useful. The nature of working with data means it risks being impersonal at times, but the surgery cut through this, with many valuable conversations between us and our users. And now these links have been forged, our users know how they can get in touch with us if they have questions or suggestions.
 The feedback after the session spoke for itself, with attendees describing it as “really helpful”, and offering a “great walkthrough” of the portal, that was referred to as being “super useful”. 
