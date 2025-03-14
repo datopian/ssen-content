@@ -56,7 +56,7 @@ Our first data surgeries have amplified these benefits for our customers, and em
 Here's some of our feedback!
 ![Smart meter surgery image 1](https://github.com/user-attachments/assets/f1f4b739-63d0-43d3-abc4-92ec2800f480)
 
-We also asked how confident our users felt using out portal at the start of the session and the end of the session. Here are the results!
+We also asked, how confident our users felt using our portal at the start of the session and the end of the session. Here are the results!
 ![smart meter surgery image 2](https://github.com/user-attachments/assets/aa1b6fd2-d089-4680-989c-c74ba2d0fc02)
 
 
