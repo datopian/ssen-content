@@ -15,7 +15,8 @@ Having made this data accessible, we then addressed what else we could do to har
 That’s where our Data Surgeries came in. We decided to hold these events to conduct ‘deep dives’ into the data assets we have put on the portal. This means we can help boost the knowledge and confidence of people who are keen to use our data, while also learning more about how it’s being employed.
 ![ssen-dots](https://github.com/user-attachments/assets/5d3fc03f-1663-437b-bae2-a93a12981120)
 
-The first surgery we held focused specifically on smart meter data, and sought to explain:
+## Smart Meter Data Surgery 
+### The first surgery we held focused specifically on smart meter data, and sought to explain:
 
   •	What a smart meter can do
   
@@ -30,7 +31,7 @@ The first surgery we held focused specifically on smart meter data, and sought t
 
 The event gave us great insights too, as we gained a better understanding of how our customers are already using the data on our portal. Knowing this means we can tailor what we offer to improve what we provide on the portal. 
 
-Here’s an overview of the benefits that have already arisen from our first smart meter data surgery.
+### Here’s an overview of the benefits that have already arisen from our first smart meter data surgery.
 
 •	We have gained a better understanding of what the data is telling us.
 
@@ -53,11 +54,11 @@ Smart meter data plays a key role in supporting a cost-effective and efficient t
 
 Our first data surgeries have amplified these benefits for our customers, and emboldened by the success of these early events, we look forward to welcoming more of you to the data surgeries we’ll hold in the future. 
 
-Here's some of our feedback!
+## Here's some of our feedback!
 ![Smart meter surgery image 1](https://github.com/user-attachments/assets/f1f4b739-63d0-43d3-abc4-92ec2800f480)
 
-We also asked, how confident our users felt using our portal at the start of the session and the end of the session. Here are the results!
+### We also asked, how confident our users felt using our portal at the start of the session and the end of the session, here are the results!
 ![smart meter surgery image 2](https://github.com/user-attachments/assets/aa1b6fd2-d089-4680-989c-c74ba2d0fc02)
 
 
-[[post|Blog post ABC]]
+
