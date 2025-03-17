@@ -1,4 +1,4 @@
-# Blog- Smart Meter Data Surgery
+# Data Story- Smart Meter Data Surgery
 
 
 Data is a precious commodity in 21st century life. At SSEN we take our role as guardians of information on energy use very seriously, but we also are keen to explore the potential insights it can offer, and the benefits that are already being delivered as a result. 
