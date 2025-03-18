@@ -47,7 +47,7 @@
   | [A Distribution Future Energy Scenarios (DFES)](https://www.ssen.co.uk/about-ssen/dso/whole-system/forecasting-future-needs/) | Analysis for both licence areas of the LCT uptake scenario projections for EVs, electricity fuelled heating technologies and domestic rooftop solar PV capacity to secondary substation and feeder level, year by year, out to 2050. |
   | [Contract Award Notice (CAN)](https://data.ssen.co.uk/@ssen-distribution/can-reporting-contract-award-notice) | As found on “Find A Tender”. |
   | [Flexibility Market Price Statement](https://data.ssen.co.uk/@ssen-distribution/sepd-flexibility-market-price-statement-april-2023) | Provides the Exceeded Import Curtailment Price and Exceeded Export Curtailment Price using flexibility market data which has been determined in accordance with this Schedule 2D of the DCUSA. |
-  | [Operation Decision Making Framework (ODM)](https://www.ssen.co.uk/globalassets/about-us/dso/consultation-library/operational-decision-making-framework---november-2024-update.pdf) | Sets out the way in which we dispatch Distributed Energy Resources (DER) to meet short term capacity needs |
+  | [Operation Decision Making Framework (ODM)](https://www.ssen.co.uk/globalassets/about-us/dso/consultation-library/operational-decision-making-framework---november-2024-update.pdf.pdf) | Sets out the way in which we dispatch Distributed Energy Resources (DER) to meet short term capacity needs |
 
 
 
