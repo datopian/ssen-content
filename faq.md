@@ -78,4 +78,4 @@ In alignment with data best practice we will aim to meet reasonable expectations
 We have built our data portal on CKAN allowing us to display our data in a user-friendly environment and allow our data consumers to use data in a meaningful way. CKAN has been used extensively by our Open Data Peers and Partners and allows us to tailor our portal, to serve you. 
 
 ## Data Portal how to guides
-Please see the link [here](https://github.com/datopian/ssen-content/raw/refs/heads/dev/assets/Portal_Guide.pdf) to understand how to use and navigate SSEN Distributions Data Portal
+Please see the link [here](https://raw.githubusercontent.com/datopian/ssen-content/refs/heads/dev/assets/Portal_Guide.pdf) to understand how to use and navigate SSEN Distributions Data Portal
