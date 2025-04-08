@@ -37,7 +37,7 @@
     />
   </a>
 
-  <a href="/usecases/datauser.md" style={{ display: 'block', 'max-height': '250px' }}>
+  <a href="/usecases/datauser.md" style={{ background: '#936993', display: 'block', 'max-height': '250px' }}>
     <img
       src="https://github.com/user-attachments/assets/cb79f0b6-6aa2-4e6c-afc4-7e3ffc5a8338"
       alt="Data User Persona"
