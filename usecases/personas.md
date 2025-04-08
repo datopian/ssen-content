@@ -19,7 +19,7 @@
     />
   </a>
 
-  <a href="/usecases/connected.md" style={{ display: 'block', 'max-height': '250px' }}>
+  <a href="/usecases/connected.md" style={{ background: '#ebac00', display: 'block', 'max-height': '250px' }}>
     <img
       src="https://github.com/user-attachments/assets/7848665e-8559-4ded-9554-28c19d556027"
       alt="Connected Persona"
@@ -37,7 +37,7 @@
     />
   </a>
 
-  <a href="/usecases/datauser.md" style={{ background: '#936993', display: 'block', 'max-height': '250px' }}>
+  <a href="/usecases/datauser.md" style={{ background: '#a677a6', display: 'block', 'max-height': '250px' }}>
     <img
       src="https://github.com/user-attachments/assets/cb79f0b6-6aa2-4e6c-afc4-7e3ffc5a8338"
       alt="Data User Persona"
