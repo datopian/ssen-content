@@ -28,7 +28,7 @@
     />
   </a>
 
-  <a href="/usecases/collaborator.md" style={{ display: 'block', 'max-height': '250px' }}>
+  <a href="/usecases/collaborator.md" style={{ background: '#629c49'; display: 'block', 'max-height': '250px' }}>
     <img
       src="https://github.com/user-attachments/assets/3f8ae500-c899-4e98-a965-a440b6bfa494"
       alt="Collaborator Persona"
