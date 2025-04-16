@@ -4,6 +4,7 @@
 If you can't find the dataset you're looking for here, many of these portals also signpost to related sources, sector-specific platforms, and open data initiatives. We recommend exploring their "Resources," "Links," or "About" sections to uncover further datasets, collaborative projects, and tools across the wider energy data ecosystem. By connecting to these data sources, users can gain deeper insights into the UK’s energy system, support energy transition efforts, and contribute to smarter, more transparent, and efficient solutions for the future.
 
  🧭 **Not sure who your energy network operator is?** You can find out by visiting the [Energy Networks Association 'Find My Network Operator'](https://www.energynetworks.org/customers/find-my-network-operator) tool. This will help you identify the relevant data portal based on your location.
+ 
 ---
 
 ## ⚡ Electricity Data Portals
