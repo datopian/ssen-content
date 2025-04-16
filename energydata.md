@@ -1,6 +1,9 @@
 #  ⚡ **Looking for energy data?**  
- This page brings together a curated list of data portals across the UK energy industry, including electricity, gas, market, and research data. If you can't find the dataset you're looking for here, many of these portals signpost to related sources and sector-specific platforms. We recommend checking their "Resources," "Links," or "About" sections to discover further datasets, partnerships, and tools across the wider energy data ecosystem.
+ This page brings together a curated list of data portals across the UK energy industry, covering electricity, gas, market, and research data. Whether you're a data analyst, innovator, policymaker, academic, or curious citizen, these portals offer direct access to high-quality, authoritative datasets that can inform decision-making, enable innovation, support investment planning, and drive sustainability initiatives.
 
+If you can't find the dataset you're looking for here, many of these portals also signpost to related sources, sector-specific platforms, and open data initiatives. We recommend exploring their "Resources," "Links," or "About" sections to uncover further datasets, collaborative projects, and tools across the wider energy data ecosystem. By connecting to these data sources, users can gain deeper insights into the UK’s energy system, support energy transition efforts, and contribute to smarter, more transparent, and efficient solutions for the future.
+
+ 🧭 **Not sure who your energy network operator is?** You can find out by visiting the [Energy Networks Association 'Find My Network Operator'](https://www.energynetworks.org/customers/find-my-network-operator) tool. This will help you identify the relevant data portal based on your location.
 ---
 
 ## ⚡ Electricity Data Portals
@@ -13,27 +16,37 @@
 2. [**National Grid Electricity Transmission (NGET) Connected Data Portal**](https://connecteddata.nationalgrid.co.uk)  
    Provides datasets on electricity demand, transmission system planning, flexibility services, and network assets.
 
+3. [**SP Energy Networks Transmission**](https://www.spenergynetworks.co.uk/pages/open_data_portal.aspx)  
+   Offers transmission data for Central and Southern Scotland, including network development and infrastructure planning.
+
+---
+
+### 🧭 System Operator
+
+4. [**National Energy System Operator (NESO) Data Portal**](https://www.neso.energy/data-portal)  
+   The central platform for system-level data on balancing services, carbon intensity, demand forecasts, generation mix, and future energy scenarios.
+
 ---
 
 ### 🏘️ Distribution
 
-3. [**SSEN Distribution Data Portal**](https://data.ssen.co.uk)  
+5. [**SSEN Distribution Data Portal**](https://data.ssen.co.uk)  
    Datasets on embedded capacity, geospatial data, low voltage networks, and connections.
 
-4. [**UK Power Networks Open Data Portal**](https://data.ukedc.com/dataset/ukpn-open-data-portal)  
+6. [**UK Power Networks Open Data Portal**](https://data.ukedc.com/dataset/ukpn-open-data-portal)  
    Provides data across UKPN's London, South East, and East of England distribution networks.
 
-5. [**National Grid Electricity Distribution Open Data Portal**](https://www.nationalgrid.co.uk/data)  
+7. [**National Grid Electricity Distribution Open Data Portal**](https://www.nationalgrid.co.uk/data)  
    Formerly Western Power Distribution, provides datasets on connections, load forecasts, network constraints, and more.
 
-6. [**Northern Powergrid Open Data Portal**](https://od.northernpowergrid.com)  
+8. [**Northern Powergrid Open Data Portal**](https://od.northernpowergrid.com)  
    Open data on low voltage networks, connections, demand, and flexibility services.
 
-7. [**SP Energy Networks Open Data Portal**](https://www.spenergynetworks.co.uk/pages/open_data_portal.aspx)  
+9. [**SP Energy Networks Open Data Portal**](https://www.spenergynetworks.co.uk/pages/open_data_portal.aspx)  
    Datasets for Central and Southern Scotland, and Merseyside & North Wales network regions.
 
-8. [**Electricity North West Data Portal**](https://www.enwl.co.uk/future-energy/data-and-digitalisation/data-portal)  
-   Data related to assets, connections, and forecasting for the North West England distribution area.
+10. [**Electricity North West Data Portal**](https://www.enwl.co.uk/future-energy/data-and-digitalisation/data-portal)  
+    Data related to assets, connections, and forecasting for the North West England distribution area.
 
 ---
 
