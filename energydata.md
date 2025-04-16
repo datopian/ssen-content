@@ -11,13 +11,13 @@ If you can't find the dataset you're looking for here, many of these portals als
 
 ### 🔌 Transmission
 
-1. [**SSEN Transmission Data Portal**](https://www.ssen-transmission.co.uk/information-centre/data-and-downloads/)  
+1. [**SSEN Transmission Data Portal**](https://ssentransmission.opendatasoft.com/pages/homepage/)  
    Offers access to SSEN Transmission’s datasets covering the north of Scotland, including network planning and investment information.
 
 2. [**National Grid Electricity Transmission (NGET) Connected Data Portal**](https://connecteddata.nationalgrid.co.uk)  
    Provides datasets on electricity demand, transmission system planning, flexibility services, and network assets.
 
-3. [**SP Energy Networks Transmission**](https://www.spenergynetworks.co.uk/pages/open_data_portal.aspx)  
+3. [**SP Energy Networks Transmission**](https://spenergynetworks.opendatasoft.com/pages/home/)  
    Offers transmission data for Central and Southern Scotland, including network development and infrastructure planning.
 
 ---
@@ -34,19 +34,19 @@ If you can't find the dataset you're looking for here, many of these portals als
 📌 [**SSEN Distribution Data Portal**](https://data.ssen.co.uk) – *you are here now!*  
 Datasets on embedded capacity, geospatial data, low voltage networks, and connections.
 
-5. [**UK Power Networks Open Data Portal**](https://data.ukedc.com/dataset/ukpn-open-data-portal)  
+5. [**UK Power Networks Open Data Portal**](https://ukpowernetworks.opendatasoft.com/pages/home/)  
    Provides data across UKPN's London, South East, and East of England distribution networks.
 
 6. [**National Grid Electricity Distribution Open Data Portal**](https://www.nationalgrid.co.uk/data)  
    Formerly Western Power Distribution, provides datasets on connections, load forecasts, network constraints, and more.
 
-7. [**Northern Powergrid Open Data Portal**](https://od.northernpowergrid.com)  
+7. [**Northern Powergrid Open Data Portal**](https://northernpowergrid.opendatasoft.com/pages/home/)  
    Open data on low voltage networks, connections, demand, and flexibility services.
 
-8. [**SP Energy Networks Open Data Portal**](https://www.spenergynetworks.co.uk/pages/open_data_portal.aspx)  
+8. [**SP Energy Networks Open Data Portal**](https://spenergynetworks.opendatasoft.com/pages/home/)  
    Datasets for Central and Southern Scotland, and Merseyside & North Wales network regions.
 
-9. [**Electricity North West Data Portal**](https://www.enwl.co.uk/future-energy/data-and-digitalisation/data-portal)  
+9. [**Electricity North West Data Portal**](https://electricitynorthwest.opendatasoft.com/pages/homepage/)  
    Data related to assets, connections, and forecasting for the North West England distribution area.
 
 ---
@@ -55,16 +55,16 @@ Datasets on embedded capacity, geospatial data, low voltage networks, and connec
 
 ### 🏘️ Gas Distribution
 
-10. [**Cadent Open Data Portal**](https://cadentgas.com/data)  
+10. [**Cadent Open Data Portal**](https://cadentgas.opendatasoft.com/pages/welcome/)  
     Open data on gas distribution networks across the North West, East, West Midlands, and London.
 
-11. [**Northern Gas Networks Open Data Portal**](https://northerngasopendataportal.co.uk)  
+11. [**Northern Gas Networks Open Data Portal**](https://northerngasopendataportal.co.uk/)  
     Data on smart meter installations, biomethane injection, and network boundaries.
 
-12. [**SGN Open Data**](https://www.sgn.co.uk/about-us/responsibility/data-hub/open-data)  
+12. [**SGN Open Data**](https://sgn.co.uk/open-data-sharing-portal)  
     Covers the south of England and Scotland, offering gas network performance and asset datasets.
 
-13. [**Wales & West Utilities Open Data Portal**](https://www.wwutilities.co.uk/about-us/responsibility/our-data/open-data/)  
+13. [**Wales & West Utilities Open Data Portal**](https://www.wwutilities.co.uk/about-us/data-digitalisation/)  
     Open data on gas distribution in Wales and the South West of England.
 
 ---
@@ -83,9 +83,6 @@ Datasets on embedded capacity, geospatial data, low voltage networks, and connec
 
 16. [**Ofgem Data Portal**](https://www.ofgem.gov.uk/energy-data-and-research/data-portal)  
     Interactive charts and datasets on the energy market, networks, and consumer metrics.
-
-17. [**Low Carbon Contracts Company (LCCC) Data Portal**](https://dp.lowcarboncontracts.uk)  
-    Open data on Contracts for Difference (CfD) and Capacity Market agreements.
 
 ---
 
