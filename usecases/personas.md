@@ -3,6 +3,7 @@
 ### Please click on one of the boxes below to get more insight for each persona type.
 
 <centre> 
+
 <table>
   <tr>
     <td><a href="/usecases/not-connected.md"><img style={{margin: 0}} src="https://github.com/user-attachments/assets/ec21157a-55a5-4313-80f6-4071bd09e4c8" alt="Not Connected Persona" width="350"/></a></td>
