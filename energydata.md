@@ -88,5 +88,5 @@ Datasets on embedded capacity, geospatial data, low voltage networks, and connec
 
 ## 🔓 Open Data Platforms
 
-18. [**Open Energy by Icebreaker One**](https://openenergy.org.uk)  
+18. [**Open Energy by Icebreaker One**](https://openenergy.org.uk/)  
     Federated platform enabling discovery and access to open and shared energy data across the UK.
