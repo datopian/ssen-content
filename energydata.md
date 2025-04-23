@@ -74,7 +74,7 @@ Datasets on embedded capacity, geospatial data, low voltage networks, and connec
 14. [**UKERC Energy Data Centre (EDC)**](https://ukerc.rl.ac.uk)  
     A hub for publicly funded energy research in the UK, including datasets and publications.
 
-15. [**UKAEA Open Data Portal**](https://opendata.ukaea.uk)  
+15. [**UKAEA Open Data Portal**](https://opendata.ukaea.uk/)  
     Open access to experimental and research data from fusion energy projects like MAST Upgrade.
 
 ---
