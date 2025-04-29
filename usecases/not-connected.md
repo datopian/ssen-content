@@ -34,13 +34,13 @@
   <table style={{borderCollapse: 'collapse', width: '100%', fontFamily: 'Arial, sans-serif'}}>
         <thead>
             <tr>
-                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#f2f2f2', fontWeight: 'bold'}}>Dataset</th>
-                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#f2f2f2', fontWeight: 'bold'}}>Understand how I can monetise my assets through flexibility services</th>
-                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#f2f2f2', fontWeight: 'bold'}}>Review network reinforcements related to my application</th>
-                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#f2f2f2', fontWeight: 'bold'}}>See information on past and future outages</th>
-                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#f2f2f2', fontWeight: 'bold'}}>See real-time and near real-time connection performance data</th>
-                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#f2f2f2', fontWeight: 'bold'}}>Optimise asset usage and efficiency</th>
-                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#f2f2f2', fontWeight: 'bold'}}>Assess opportunities to further engage with the network</th>
+                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#253746', fontWeight: 'bold'}}>Dataset</th>
+                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#253746', fontWeight: 'bold'}}>Understand how I can monetise my assets through flexibility services</th>
+                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#253746', fontWeight: 'bold'}}>Review network reinforcements related to my application</th>
+                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#253746', fontWeight: 'bold'}}>See information on past and future outages</th>
+                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#253746', fontWeight: 'bold'}}>See real-time and near real-time connection performance data</th>
+                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#253746', fontWeight: 'bold'}}>Optimise asset usage and efficiency</th>
+                <th style={{border: '1px solid #ddd', padding: '8px', textAlign: 'center', backgroundColor: '#253746', fontWeight: 'bold'}}>Assess opportunities to further engage with the network</th>
             </tr>
         </thead>
         <tbody>
