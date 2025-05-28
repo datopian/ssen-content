@@ -92,7 +92,7 @@
     <td>&#10004</td>
   </tr>
   <tr>
-    <td><a href="https://data.ssen.co.uk/@ssen-distribution/orkney_active_network_management">Orkney</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/isle_of_wight_active_network_management"<Isle of Wight Active Network Management</a></td>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/orkney_active_network_management">Orkney</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/isle_of_wight_active_network_management">Isle of Wight Active Network Management</a></td>
     <td> </td>
     <td> </td>
     <td> </td>
