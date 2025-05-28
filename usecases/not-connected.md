@@ -1,14 +1,127 @@
 # Not Connected
 ## "I want to connect to the network, and I am not sure where to start."
 
-<details>
-  <summary> <b>What can SSEN's data help me with?</b></summary>
-  
-  * Understand how to connect, where and how much it would cost me.
-  * See Visibility of near real time consumption in my area.
-  * See technical information to help me with modelling. 
+---
 
-</details>
+<b>What can SSEN's data help me with?</b>
+
+---
+  
+<body>
+
+<table style={{width: '100%'}}>
+  <tr>
+    <th>Dataset</th>
+    <th>Understand Connected Resources</th>
+    <th>Understand Network Requirements</th>
+    <th>Anticipate Future Network Demand</th>
+    <th>Review Network Development Plans</th>
+    <th>Identify Opportunities to Engage with SSE</th>
+    <th>Understand Ability to Connect</th>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_network_development_report">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_network_development_report">SEPD</a> Network Development Report</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>&#10004</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_long_term_development_statement">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_long_term_development_statement">SEPD</a> Long Term Development Statement</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>&#10004</td>
+    <td>&#10004</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/embedded_capacity_register">Embedded Capacity Register</a></td>
+    <td>&#10004</td>
+    <td>&#10004</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/ssen_smart_meter_prod_lv_feeder">Smart Meter LV Feeder Usage</a></td>
+    <td>&#10004</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/ssen-substation-data">SSEN Substation Data</a></td>
+    <td>&#10004</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/nerda_opengrid_dashboard">NeRDA Opengrid Dashboard</a></td>
+    <td>&#10004</td>
+    <td> </td>
+    <td>&#10004</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/realtime_outage_dataset">Real Time Outage</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/nafirs">NaFIRS Yearly Export</a></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>&#10004</td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/generation-availability-and-network-capacity">Generation availability & Network Capacity</a></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>&#10004</td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/orkney_active_network_management">Orkney</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/isle_of_wight_active_network_management"<Isle of Wight Active Network Management</a></td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>&#10004</td>
+    <td>&#10004</td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/low_carbon_technologies">Distributed Future Energy Scenarios</a></td>
+    <td> </td>
+    <td> </td>
+    <td>&#10004</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://data.ssen.co.uk/@ssen-distribution/flexibility-services-contract-register">Flexibility Services</a>, <a href="https://data.ssen.co.uk/@ssen-distribution/sepd-flexibility-market-price-statement-april-2023">Flexibility Market Price</a>, & <a href="https://data.ssen.co.uk/@ssen-distribution/can-reporting-contract-award-notice">Contract Award Notice</a></td>
+    <td>&#10004</td>
+    <td>&#10004</td>
+    <td> </td>
+    <td> </td>
+    <td>&#10004</td>
+    <td> </td>
+  </tr>
+</table>
+
+</body>
+ 
 
 ---
 
@@ -27,24 +140,7 @@
 
 ---
 
-<details>
-  <summary> <b>Which SSEN datasets and reports could help me with this?</b> </summary>
-  
-  | **Dataset** | **Description** |
-  | :-------- | :------------ |
-  | [Long Term Development Statement (LTDS)](https://www.ssen.co.uk/our-services/tools-and-maps/long-term-development-statements-ltds/) | Provides information for anyone connecting to our distribution system at extra high voltage (EHV) level (including HV busbar of primary substations). It is designed to help to identify and evaluate opportunities for entering into arrangements with us relating to use of system or connection. |
-  | [Network Development Reports](https://www.ssen.co.uk/our-services/network-capacity-information/)  | SHEPD and SEPD reports that set out our longer-term network development plans. |
-  | [DNOA Methodology](https://www.ssen.co.uk/about-ssen/dso/whole-system/our-strategic-network-planning-process/) | Our Distribution Network Options Assessment methodology outlines our decisions on where to invest in network infrastructure or procure flexibility to meet future capacity needs in the longer term. | 
-  | [Near Real Time Data Access (NERDA)](https://www.ssen.co.uk/our-services/tools-and-maps/near-real-time-data-access-nerda-portal/) | A tool which makes the most granular data on our network, from the higher voltages, down to the low voltage network, available to anyone in near real-time. Our Open Data licence obligation means anyone can access NeRDA, and see visualization of our network data via maps, dashboards, downloading datasets and can even connect directly via an API (machine to machine) to automate the data streams into their own internal systems. |
-  | [Load Model](https://data.ssen.co.uk/@ssen-distribution/transformer-load-model) | A machine learning product which estimates half-hourly annual demand profile for each household based on a series of demographic, geographic and heating type factors. To enable us to estimate capacity on the electricity network while protecting individual customers data privacy, modelled data is used and aggregated up the network’s hierarchy based on the combinations of customers associated with each asset. network's is supplemented with the forward Distribution Future Energy Scenarios (DFES) which highlight the expected impact of low carbon technology on the network (LCT) such as heat-pumps or electricity vehicles |
-  | [Generation Availability and Contracted Demand Map](https://network-maps.ssen.co.uk/) | Provides an indication of the networks capability to connect large-scale developments to major substations. Accompanying the map, the heat map spreadsheets for both of our network regions provides Grid Supply Point (GSP) details, GSP and substation transformer ratings, fault level information, and contracted and quoted generation projects at each GSP.
-  | [Embedded Capacity Register (ECR)](https://data.ssen.co.uk/@ssen-distribution/embedded_capacity_register) | Developed to provide better information to electricity network stakeholders on connected resources and network requirements. Each Distribution Network Operator (DNO) will host a register which will provide accessible information at a local and national level. The register uses a format agreed through the Energy Networks Association’s Open Networks project, an industry initiative aimed at transforming the operation of energy networks and delivering a smart grid. Our register provides information on generation and storage resources (>=50kW) that are connected, or accepted to connect, to the electricity distribution networks owned and operated by us and it will be updated on a monthly basis. The register also includes information on the flexibility services that are being provided by connected resources, assisting to control or schedule demand and/or generation to reduce network constraints.
-  | Network Locational Data | SSEN Distribution has reviewed provided access to shape file data containing geographical position and attribution of the electricity network covering the SEPD and SHEPD DNO areas. This data is provided through various tools to ensure the integrity and security of our network locational data. We have provided access to Electric Office Web Portal for Independent Connection Providers to view, query and print map-based GIS Data. We provide extracts and daily updates of our Network to LSBuD for safe dig purposes. And we have worked with UK Government and Scottish Government on providing data for the NUAR and VAULT.
 
 
 
 
-
-
-
-</details>
