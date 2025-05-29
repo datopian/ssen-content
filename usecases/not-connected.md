@@ -25,7 +25,7 @@
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
     <td> </td>
   </tr>
   <tr>
@@ -33,14 +33,14 @@
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>&#10004</td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
     <td> </td>
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/embedded_capacity_register">Embedded Capacity Register</a></td>
-    <td>&#10004</td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/ssen_smart_meter_prod_lv_feeder">Smart Meter LV Feeder Usage</a></td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/ssen-substation-data">SSEN Substation Data</a></td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -66,9 +66,9 @@
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/nerda_opengrid_dashboard">NeRDA Opengrid Dashboard</a></td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
     <td> </td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -80,7 +80,7 @@
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/generation-availability-and-network-capacity">Generation availability & Network Capacity</a></td>
@@ -89,7 +89,7 @@
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/orkney_active_network_management">Orkney</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/isle_of_wight_active_network_management">Isle of Wight Active Network Management</a></td>
@@ -97,25 +97,25 @@
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>&#10004</td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/low_carbon_technologies">Distributed Future Energy Scenarios</a></td>
     <td> </td>
     <td> </td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
     <td> </td>
     <td> </td>
     <td> </td>
   </tr>
   <tr>
     <td><a href="https://data.ssen.co.uk/@ssen-distribution/flexibility-services-contract-register">Flexibility Services</a>, <a href="https://data.ssen.co.uk/@ssen-distribution/sepd-flexibility-market-price-statement-april-2023">Flexibility Market Price</a>, & <a href="https://data.ssen.co.uk/@ssen-distribution/can-reporting-contract-award-notice">Contract Award Notice</a></td>
-    <td>&#10004</td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
+    <td>&#10004;</td>
     <td> </td>
     <td> </td>
-    <td>&#10004</td>
+    <td>&#10004;</td>
     <td> </td>
   </tr>
 </table>
