@@ -9,7 +9,7 @@
   
 <body>
 
-<table style={{width: '100%'}}>
+<table style={{width: '100%'}} className="bg-red-500">
   <tr>
     <th>Dataset</th>
     <th>Understand Connected Resources</th>
