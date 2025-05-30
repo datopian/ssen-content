@@ -23,103 +23,103 @@
     </thead>
     <tbody>
         <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_network_development_report" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_network_development_report" className="text-blue-600 hover:underline">SEPD</a> Network Development Report</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_network_development_report" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_network_development_report" className="text-blue-600 hover:underline">SEPD</a> Network Development Report</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_long_term_development_statement" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_long_term_development_statement" className="text-blue-600 hover:underline">SEPD Long Term Development Statement</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_long_term_development_statement" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_long_term_development_statement" className="text-blue-600 hover:underline">SEPD Long Term Development Statement</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/embedded_capacity_register" className="text-blue-600 hover:underline">Embedded Capacity Register</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/embedded_capacity_register" className="text-blue-600 hover:underline">Embedded Capacity Register</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/ssen_smart_meter_prod_lv_feeder" className="text-blue-600 hover:underline">Smart Meter LV Feeder Usage</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/ssen_smart_meter_prod_lv_feeder" className="text-blue-600 hover:underline">Smart Meter LV Feeder Usage</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/ssen-substation-data" className="text-blue-600 hover:underline">SSEN Substation Data</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/ssen-substation-data" className="text-blue-600 hover:underline">SSEN Substation Data</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/nerda_opengrid_dashboard" className="text-blue-600 hover:underline">NeRDA Opengrid Dashboard</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/nerda_opengrid_dashboard" className="text-blue-600 hover:underline">NeRDA Opengrid Dashboard</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/realtime_outage_dataset" className="text-blue-600 hover:underline">Real Time Outage</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/nafirs" className="text-blue-600 hover:underline">NaFIRS Yearly Export</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/realtime_outage_dataset" className="text-blue-600 hover:underline">Real Time Outage</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/nafirs" className="text-blue-600 hover:underline">NaFIRS Yearly Export</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
         </tr>
         <tr className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/generation-availability-and-network-capacity" className="text-blue-600 hover:underline">Generation Availability & Network Capacity</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/generation-availability-and-network-capacity" className="text-blue-600 hover:underline">Generation Availability & Network Capacity</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
         </tr>
         <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/orkney_active_network_management" className="text-blue-600 hover:underline">Orkney</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/isle_of_wight_active_network_management" className="text-blue-600 hover:underline">Isle of Wight Active Network Management</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/orkney_active_network_management" className="text-blue-600 hover:underline">Orkney</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/isle_of_wight_active_network_management" className="text-blue-600 hover:underline">Isle of Wight Active Network Management</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
         </tr>
         <tr className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/low_carbon_technologies" className="text-blue-600 hover:underline">Distributed Future Energy Scenarios</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/low_carbon_technologies" className="text-blue-600 hover:underline">Distributed Future Energy Scenarios</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/flexibility-services-contract-register" className="text-blue-600 hover:underline">Flexibility Services</a>, <a href="https://data.ssen.co.uk/@ssen-distribution/sepd-flexibility-market-price-statement-april-2023" className="text-blue-600 hover:underline">Flexibility Market Price</a>, & <a href="https://data.ssen.co.uk/@ssen-distribution/can-reporting-contract-award-notice" className="text-blue-600 hover:underline">Contract Award Notice</a></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/flexibility-services-contract-register" className="text-blue-600 hover:underline">Flexibility Services</a>, <a href="https://data.ssen.co.uk/@ssen-distribution/sepd-flexibility-market-price-statement-april-2023" className="text-blue-600 hover:underline">Flexibility Market Price</a>, & <a href="https://data.ssen.co.uk/@ssen-distribution/can-reporting-contract-award-notice" className="text-blue-600 hover:underline">Contract Award Notice</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
     </tbody>
 </table>
