@@ -9,7 +9,7 @@
   
 <body>
 
-<table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white shadow-lg">
+<table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white">
     <thead>
         <tr style={{backgroundColor: '#2d3748'}}>
             <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Dataset</th>
