@@ -12,13 +12,13 @@
 <table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white shadow-lg">
     <thead>
         <tr style={{backgroundColor: '#2d3748'}}>
-            <th className="text-white" style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'left', fontWeight: 'bold'}} className="bg-gray-800">Dataset</th>
-            <th className="text-white" style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="bg-gray-800">Understand connected resources</th>
-            <th className="text-white" style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="bg-gray-800">Understand network requirements</th>
-            <th className="text-white" style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="bg-gray-800">Anticipate future network demand</th>
-            <th className="text-white" style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="bg-gray-800">Review network development plans</th>
-            <th className="text-white" style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="bg-gray-800">Identify opportunities to engage with SSE</th>
-            <th className="text-white" style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="bg-gray-800">Understand ability to connect</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'left', fontWeight: 'bold'}} className="text-white bg-gray-800">Dataset</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand connected resources</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand network requirements</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Anticipate future network demand</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Review network development plans</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Identify opportunities to engage with SSE</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand ability to connect</th>
         </tr>
     </thead>
     <tbody>
