@@ -32,7 +32,7 @@
             <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
         </tr>
         <tr className="hover:bg-gray-50">
-            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_long_term_development_statement" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_long_term_development_statement" className="text-blue-600 hover:underline">SEPD</a> Long Term Development Statement</td>
+            <td style={{border: '1px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_long_term_development_statement" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_long_term_development_statement" className="text-blue-600 hover:underline">SEPD Long Term Development Statement</a></td>
             <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
             <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
             <td style={{border: '1px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
