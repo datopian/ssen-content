@@ -1,16 +1,129 @@
-# I know exactly what I want
-## “I know exactly what data I am looking for and just need access to it”
+# Research: Personal, Scientific, Academic
+## “I want to conduct research into the network to improve our knowledge, develop new products or help understand my usage”
 
-<details>
-  <summary> <b>What can SSEN's data help me with?</b></summary>
+---
+
+<b>What can SSEN's data help me with?</b>
+
+---
   
-  * Be able to find data as easily as possible
-  * Be able to download, read and interpret data in an easy way
-  * Be able to contact SSEN about what this data means to me
-  * Access the information without cost
-  * Access without needing delayed permissions
+<body>
 
-</details>
+<table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white">
+    <thead>
+        <tr style={{backgroundColor: '#2d3748'}}>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Dataset</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand the network</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Identify opportunities to reduce costs as an energy consumer</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Review network performance</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Identify opportunities for efficiency and grid optimisation</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand the impact of renewable energy on the grid</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Forecast future network demand</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_network_development_report" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_network_development_report" className="text-blue-600 hover:underline">SEPD Network Development Report</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+        </tr>
+        <tr className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/shepd_long_term_development_statement" className="text-blue-600 hover:underline">SHEPD</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/sepd_long_term_development_statement" className="text-blue-600 hover:underline">SEPD Long Term Development Statement</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+        </tr>
+        <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/embedded_capacity_register" className="text-blue-600 hover:underline">Embedded Capacity Register</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+        </tr>
+        <tr className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/ssen_smart_meter_prod_lv_feeder" className="text-blue-600 hover:underline">Smart Meter LV Feeder Usage</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+        </tr>
+        <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/ssen-substation-data" className="text-blue-600 hover:underline">SSEN Substation Data</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+        </tr>
+        <tr className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/nerda_opengrid_dashboard" className="text-blue-600 hover:underline">NeRDA Opengrid Dashboard</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+        </tr>
+        <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/realtime_outage_dataset" className="text-blue-600 hover:underline">Real Time Outage</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/nafirs" className="text-blue-600 hover:underline">NaFIRS Yearly Export</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+        </tr>
+        <tr className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/generation-availability-and-network-capacity" className="text-blue-600 hover:underline">Generation Availability & Network Capacity</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+        </tr>
+        <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/orkney_active_network_management" className="text-blue-600 hover:underline">Orkney</a> & <a href="https://data.ssen.co.uk/@ssen-distribution/isle_of_wight_active_network_management" className="text-blue-600 hover:underline">Isle of Wight Active Network Management</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+        </tr>
+        <tr className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}}><a href="https://data.ssen.co.uk/@ssen-distribution/low_carbon_technologies" className="text-blue-600 hover:underline">Distributed Future Energy Scenarios</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+        </tr>
+        <tr style={{backgroundColor: '#f7fafc'}} className="hover:bg-gray-50">
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', fontWeight: '500'}} className="bg-gray-50"><a href="https://data.ssen.co.uk/@ssen-distribution/flexibility-services-contract-register" className="text-blue-600 hover:underline">Flexibility Services</a>, <a href="https://data.ssen.co.uk/@ssen-distribution/sepd-flexibility-market-price-statement-april-2023" className="text-blue-600 hover:underline">Flexibility Market Price</a>, & <a href="https://data.ssen.co.uk/@ssen-distribution/can-reporting-contract-award-notice" className="text-blue-600 hover:underline">Contract Award Notice</a></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center'}}></td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+            <td style={{border: '2px solid #e2e8f0', padding: '10px', textAlign: 'center', fontSize: '18px', color: '#2d3748', verticalAlign: 'middle'}}>&#10004;</td>
+        </tr>
+    </tbody>
+</table>
+</body>
 
 ---
 
@@ -26,24 +139,4 @@
   | :-----------------: | :-------------------: | :---------------------: |
   | John’s business is installing batteries of different sizes on both the distribution and transmission networks. | Carla is a solar farm owner and operator. She wants to expand her current solar farm and build an investment plan for new projects. | Keith operates a manufacturing plant that consumes large amounts of electricity which can vary significantly throughout the day. |
   
-</details>
-
----
-
-<details>
-  <summary> <b>Which SSEN datasets and reports could help me with this?</b> </summary>
-  
-  | **Dataset** | **Description** |
-  | :-------- | :------------ |
-  | [SSEN Distribution Data Portal](https://data.ssen.co.uk) | Our Open Data licence obligation means anyone can access the data portal, free of charge and use tools such as NeRDA, see visualizations of our network data via maps, dashboards, download datasets and even connect directly via an API (machine to machine) to automate the data streams into their own internal systems. |
-  | [SSEN Data Roadmap](https://data.ssen.co.uk/@ssen-distribution/ssen-distribution-data-roadmap) | Outlines when data will become available in the future. The roadmap promotes open collaboration and transparent data sharing with stakeholders by outlining clear milestones and objectives. This ensures stakeholders are well informed about the data journey, promoting trust and cooperation in achieving common data related goals. |
-  | [SSEN Distribution Data Request, Feedback and Re-Use Form](https://forms.office.com/e/tKYxkTWS0n) | The SSEN Distribution Data Request, Feedback and Re-Use Form allows you to request data or leave feedback on a specific data asset. |
-  | [Collections](https://data.ssen.co.uk/collections) | The catalogued collections of data on the data portal to find related data sets easily. The metadata associated with each data item |
-
-
-
-
-
-
-
 </details>
