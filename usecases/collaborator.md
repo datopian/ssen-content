@@ -1,12 +1,9 @@
----
-title: Use Cases - Collaborator
----
-
 # Collaborator 
 ## “I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs, Local Authorities etc.”
 
-<details>
-  <summary> <b>What can SSEN's data help me with?</b></summary>
+---
+
+<b>What can SSEN's data help me with?</b></summary>
   
 ---
   
@@ -127,6 +124,7 @@ title: Use Cases - Collaborator
     </tbody>
 </table>
 </body>
+
  
 ---
 
