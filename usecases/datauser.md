@@ -1,4 +1,4 @@
-# Research: Personal, Scientific, Academic
+# Researcher: Personal, Scientific, Academic
 ## “I want to conduct research into the network to improve our knowledge, develop new products or help understand my usage”
 
 ---
