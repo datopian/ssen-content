@@ -20,12 +20,12 @@
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'center',
-      fontSize: '20px',
+      fontSize: '22px',
       textDecoration: 'none',
       lineHeight: 'normal'
     }}>
       <strong style={{
-        fontSize: '22px',
+        fontSize: '24px',
         fontWeight: 600
       }}>Not Connected</strong><br /> “I want to connect to the network, and I am not sure where to start”
     </a>
@@ -39,12 +39,12 @@
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'center',
-      fontSize: '20px',
+      fontSize: '22px',
       textDecoration: 'none',
       lineHeight: 'normal'
     }}>
       <strong style={{
-        fontSize: '22px',
+        fontSize: '24px',
         fontWeight: 600
       }}>Connected</strong><br /> “I am connected to the network, and I want to learn more about utilising my assets and connection”
     </a>
@@ -58,12 +58,12 @@
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'center',
-      fontSize: '20px',
+      fontSize: '22px',
       textDecoration: 'none',
       lineHeight: 'normal'
     }}>
       <strong style={{
-        fontSize: '22px',
+        fontSize: '24px',
         fontWeight: 600
       }}>Collaborator</strong><br /> “I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs, Local Authorities etc.”
     </a>
@@ -77,12 +77,12 @@
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'center',
-      fontSize: '20px',
+      fontSize: '22px',
       textDecoration: 'none',
       lineHeight: 'normal'
     }}>
       <strong style={{
-        fontSize: '22px',
+        fontSize: '24px',
         fontWeight: 600
       }}>Researcher: Personal, Scientific, Academic</strong><br /> “I want to conduct research into the network to improve our knowledge, develop new products or help understand my usage”
     </a>
