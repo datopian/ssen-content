@@ -1,16 +1,88 @@
-# Use Cases
-## This page provides links to guidance for common data consumer types.
-### Please click on one of the boxes below to get more insight for each persona type.
+<div
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 672px;
+    font-family: sans-serif;
+    text-align: center;
+    gap: 3px;
+  "
+>
+  <a
+    href="/usecases/not-connected.md"
+    style="
+      flex: 1 1 calc(50% - 6px);
+      background-color: #5e869e;
+      color: white;
+      padding: 20px;
+      box-sizing: border-box;
+      height: 225px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      font-size: 20px;
+    "
+  >
+    <strong style="font-size: 22px; font-weight: 600">Not Connected</strong><br />
+    &ldquo;I want to connect to the network, and I am not sure where to
+    start&rdquo;
+  </a>
+  <a
+    href="/usecases/connected.md"
+    style="
+      flex: 1 1 calc(50% - 6px);
+      background-color: #e2a500;
+      color: white;
+      padding: 20px;
+      box-sizing: border-box;
+      height: 225px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      font-size: 20px;
+    "
+  >
+    <strong style="font-size: 22px; font-weight: 600">Connected</strong><br />
+    &ldquo;I am connected to the network, and I want to learn more about
+    utilising my assets and connection&rdquo;
+  </a>
+  <a
+    href="/usecases/collaborator.md"
+    style="
+      flex: 1 1 calc(50% - 6px);
+      background-color: #5a944f;
+      color: white;
+      padding: 20px;
+      box-sizing: border-box;
+      height: 225px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      font-size: 20px;
+    "
+  >
+    <strong style="font-size: 22px; font-weight: 600">Collaborator</strong><br />
+    &ldquo;I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs,
+    Local Authorities etc.&rdquo;
+  </a>
+  <a
+    href="/usecases/datauser.md"
+    style="
+      flex: 1 1 calc(50% - 6px);
+      background-color: #a066a3;
+     color: white;
+      padding: 20px;
+      box-sizing: border-box;
+      height: 225px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      font-size: 20px;
+    "
+  >
+    <strong style="font-size: 22px; font-weight: 600">Researcher: Personal, Scientific, Academic</strong><br />
+    &ldquo;I want to conduct research into the network to improve our knowledge,
+    develop new products or help understand my usage&rdquo;
+  </a>
+</div>
 
-<centre> 
-
-<table>
-  <tr>
-    <td><a href="/usecases/not-connected.md"><img style={{margin: 0}} src="https://github.com/user-attachments/assets/ec21157a-55a5-4313-80f6-4071bd09e4c8" alt="Not Connected Persona" width="350"/></a></td>
-    <td><a href="/usecases/connected.md"><img style={{margin: 0 }} src="https://github.com/user-attachments/assets/7848665e-8559-4ded-9554-28c19d556027" alt="Connected Persona" width="350"/></a></td>
-  </tr><tr>
-    <td><a href="/usecases/collaborator.md"><img style={{margin: 0, background: '#629c49'}} src="https://github.com/user-attachments/assets/3f8ae500-c899-4e98-a965-a440b6bfa494" alt="Collaborator Persona" width="350"/></a></td>
-    <td><a href="/usecases/datauser.md"><img style={{margin: 0, background: '#a677a6'}} src="https://github.com/user-attachments/assets/f0f506b4-0da0-4d2a-b891-5f06feffa101" alt="Data User Persona" width="350"/></a></td>
-  </tr>
-</table>
-</centre>
