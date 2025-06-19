@@ -22,7 +22,7 @@
       justifyContent: 'center',
       fontSize: '20px',
       textDecoration: 'none',
-      lineHeight: normal
+      lineHeight: 'normal'
     }}>
       <strong style={{
         fontSize: '22px',
@@ -41,7 +41,7 @@
       justifyContent: 'center',
       fontSize: '20px',
       textDecoration: 'none',
-      lineHeight: normal
+      lineHeight: 'normal'
     }}>
       <strong style={{
         fontSize: '22px',
@@ -60,7 +60,7 @@
       justifyContent: 'center',
       fontSize: '20px',
       textDecoration: 'none',
-      lineHeight: normal
+      lineHeight: 'normal'
     }}>
       <strong style={{
         fontSize: '22px',
@@ -79,7 +79,7 @@
       justifyContent: 'center',
       fontSize: '20px',
       textDecoration: 'none',
-      lineHeight: normal
+      lineHeight: 'normal'
     }}>
       <strong style={{
         fontSize: '22px',
