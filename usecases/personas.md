@@ -21,7 +21,8 @@
       flexDirection: 'column',
       justifyContent: 'center',
       fontSize: '20px',
-      textDecoration: 'none'
+      textDecoration: 'none',
+      line-height: normal
     }}>
       <strong style={{
         fontSize: '22px',
@@ -39,7 +40,8 @@
       flexDirection: 'column',
       justifyContent: 'center',
       fontSize: '20px',
-      textDecoration: 'none'
+      textDecoration: 'none',
+      line-height: normal
     }}>
       <strong style={{
         fontSize: '22px',
@@ -57,7 +59,8 @@
       flexDirection: 'column',
       justifyContent: 'center',
       fontSize: '20px',
-      textDecoration: 'none'
+      textDecoration: 'none',
+      line-height: normal
     }}>
       <strong style={{
         fontSize: '22px',
@@ -75,7 +78,8 @@
       flexDirection: 'column',
       justifyContent: 'center',
       fontSize: '20px',
-      textDecoration: 'none'
+      textDecoration: 'none',
+      line-height: normal
     }}>
       <strong style={{
         fontSize: '22px',
