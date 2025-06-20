@@ -2,15 +2,89 @@
 ## This page provides links to guidance for common data consumer types.
 ### Please click on one of the boxes below to get more insight for each persona type.
 
-<centre> 
+<div style={{
+    display: 'flex',
+    flexWrap: 'wrap',
+    maxWidth: '672px',
+    fontFamily: 'sans-serif',
+    textAlign: 'center',
+    gap: '3px'
+  }}>
+    <a href="/usecases/not-connected.md" style={{
+      flex: '1 1 calc(50% - 6px)',
+      backgroundColor: '#5e869e',
+      color: 'white',
+      padding: '0 20px 0 20px',
+      boxSizing: 'border-box',
+      minHeight: '241px',
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      fontSize: '22px',
+      textDecoration: 'none',
+      lineHeight: 'normal'
+    }}>
+      <strong style={{
+        fontSize: '24px',
+        fontWeight: 600
+      }}>Not Connected</strong><br /> “I want to connect to the network, and I am not sure where to start”
+    </a>
+    <a href="/usecases/connected.md" style={{
+      flex: '1 1 calc(50% - 6px)',
+      backgroundColor: '#e2a500',
+      color: 'white',
+      padding: '0 20px 0 20px',
+      boxSizing: 'border-box',
+      minHeight: '241px',
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      fontSize: '22px',
+      textDecoration: 'none',
+      lineHeight: 'normal'
+    }}>
+      <strong style={{
+        fontSize: '24px',
+        fontWeight: 600
+      }}>Connected</strong><br /> “I am connected to the network, and I want to learn more about utilising my assets and connection”
+    </a>
+    <a href="/usecases/collaborator.md" style={{
+      flex: '1 1 calc(50% - 6px)',
+      backgroundColor: '#5a944f',
+      color: 'white',
+      padding: '0 20px 0 20px',
+      boxSizing: 'border-box',
+      minHeight: '241px',
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      fontSize: '22px',
+      textDecoration: 'none',
+      lineHeight: 'normal'
+    }}>
+      <strong style={{
+        fontSize: '24px',
+        fontWeight: 600
+      }}>Collaborator</strong><br /> “I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs, Local Authorities etc.”
+    </a>
+    <a href="/usecases/datauser.md" style={{
+      flex: '1 1 calc(50% - 6px)',
+      backgroundColor: '#a066a3',
+      color: 'white',
+      padding: '0 20px 0 20px',
+      boxSizing: 'border-box',
+      minHeight: '225px',
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      fontSize: '22px',
+      textDecoration: 'none',
+      lineHeight: 'normal'
+    }}>
+      <strong style={{
+        fontSize: '24px',
+        fontWeight: 600
+      }}>Researcher: Personal, Scientific, Academic</strong><br /> “I want to conduct research into the network to improve our knowledge, develop new products or help understand my usage”
+    </a>
+</div>
 
-<table>
-  <tr>
-    <td><a href="/usecases/not-connected.md"><img style={{margin: 0}} src="https://github.com/user-attachments/assets/ec21157a-55a5-4313-80f6-4071bd09e4c8" alt="Not Connected Persona" width="350"/></a></td>
-    <td><a href="/usecases/connected.md"><img style={{margin: 0 }} src="https://github.com/user-attachments/assets/7848665e-8559-4ded-9554-28c19d556027" alt="Connected Persona" width="350"/></a></td>
-  </tr><tr>
-    <td><a href="/usecases/collaborator.md"><img style={{margin: 0, background: '#629c49'}} src="https://github.com/user-attachments/assets/3f8ae500-c899-4e98-a965-a440b6bfa494" alt="Collaborator Persona" width="350"/></a></td>
-    <td><a href="/usecases/datauser.md"><img style={{margin: 0, background: '#a677a6'}} src="https://github.com/user-attachments/assets/cb79f0b6-6aa2-4e6c-afc4-7e3ffc5a8338" alt="Data User Persona" width="350"/></a></td>
-  </tr>
-</table>
-</centre>
