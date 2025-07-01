@@ -1,7 +1,7 @@
 ---
 title: Workshop at World Bank Headquarters
 from: 2025-07-01
-to: 2026-07-20
+to: 2025-07-20
 organization: Transport Data Commons Initiative
 location: Washington D.C.
 link: https://changing-transport.org/event/towards-a-transport-data-commons-workshop-at-world-bank-headquarters-in-washington-d-c-linked-to-transforming-transportation/
