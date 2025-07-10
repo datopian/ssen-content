@@ -5,13 +5,13 @@ usecases:
     description: "I want to connect to the network, and I am not sure where to start"
     href: "/usecases/not-connected.md"
     color: "#5e869e"
-    iconName: "UserMinus"
+    iconName: "user-minus"
     order: 1
   - title: "Connected"
     description: "I am connected to the network, and I want to learn more about utilising my assets and connection"
     href: "/usecases/connected.md"
     color: "#e2a500"
-    iconName: "UserPlus"
+    iconName: "user-plus"
     order: 2
   - title: "Collaborator"
     description: "I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs, Local Authorities etc."
