@@ -5,6 +5,7 @@ usecases:
     description: "I want to connect to the network, and I am not sure where to start"
     href: "/usecases/not-connected.md"
     color: "#5e869e"
+    iconName: "UserMinus"
     order: 1
   - title: "Connected"
     description: "I am connected to the network, and I want to learn more about utilising my assets and connection"
