@@ -16,7 +16,7 @@ usecases:
     href: "/usecases/collaborator.md"
     color: "#5a944f"
     order: 3
-  - title: "Researcher: Personal, Scientific, Academic"
+  - title: "Researcher"
     description: "I want to conduct research into the network to improve our knowledge, develop new products or help understand my usage"
     href: "/usecases/datauser.md"
     color: "#a066a3"
