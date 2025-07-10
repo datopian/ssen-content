@@ -16,11 +16,13 @@ usecases:
   - title: "Collaborator"
     description: "I want to collaborate with other stakeholders e.g. NESO, DNOs / DSOs, Local Authorities etc."
     href: "/usecases/collaborator.md"
+    iconName: "user-group"
     color: "#5a944f"
     order: 3
   - title: "Researcher"
     description: "I want to conduct research into the network to improve our knowledge, develop new products or help understand my usage"
     href: "/usecases/datauser.md"
+    iconName: "user-search"
     color: "#a066a3"
     order: 4
 ---
