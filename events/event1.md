@@ -7,10 +7,10 @@ location: Washington D.C.
 link: https://changing-transport.org/event/towards-a-transport-data-commons-workshop-at-world-bank-headquarters-in-washington-d-c-linked-to-transforming-transportation/
 additionalLinks:
   - name: "Link 1"    
-    href: "/usecases/not-connected.md"
+    link: "/usecases/not-connected.md"
     order: 1
   - name: "Link 2"    
-    href: "/usecases/not-connected.md"
+    link: "/usecases/not-connected.md"
     order: 2
 ---
 
