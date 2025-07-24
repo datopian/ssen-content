@@ -1,4 +1,0 @@
----
-title: Name of the survey
-link: https://changing-transport.org/event/towards-a-transport-data-commons-workshop-at-world-bank-headquarters-in-washington-d-c-linked-to-transforming-transportation/
----
