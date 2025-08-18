@@ -1,5 +1,3 @@
----
-title: "Use Cases Overview"
 usecases:
   - title: "Not Connected"
     description: "I want to connect to the network, and I am not sure where to start"
@@ -21,4 +19,3 @@ usecases:
     href: "/usecases/datauser.md"
     iconName: "UserSearchIcon"
     color: "#a066a3"
----
