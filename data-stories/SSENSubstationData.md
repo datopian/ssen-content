@@ -1,4 +1,6 @@
-# SSEN Substation Data
+---
+title: SSEN Substation Data
+---
 
 SSEN Distribution has published it's Substation data.
 

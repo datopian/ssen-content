@@ -1,4 +1,6 @@
-# Energy Consumption Visualization
+---
+title: Energy Consumption Visualization
+---
 
 This visualization shows energy consumption over time by region.
 
