@@ -1,5 +1,6 @@
 ---
 title: SSEN Substation Data
+type: data-story
 ---
 
 SSEN Distribution has published it's Substation data.

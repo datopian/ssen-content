@@ -1,5 +1,6 @@
 ---
 title: Energy Consumption Visualization
+type: data-story
 ---
 
 This visualization shows energy consumption over time by region.

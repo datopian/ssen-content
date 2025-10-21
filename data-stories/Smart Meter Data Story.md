@@ -1,5 +1,6 @@
 ---
 title: Smart Meter Data Surgery
+type: surgery
 ---
 
 
