@@ -1,7 +1,7 @@
 # Embedded Capacity Register
-Data is vital for decarbonisation
+### Data is vital for decarbonisation
 
-Why?
+#### Why?
 Because information on electricity usage, demographics, socio-economic circumstances, and climate tells us so much. 
 They can point us in the direction of where best to locate new network assets, where relative deprivation may coincide with a colder climate, where there’s scope to locate more community renewable generation, or where there’s extra capacity ready to support low carbon technologies. All of these can influence good network planning and deliver tangible benefits for the communities we serve. 
 
