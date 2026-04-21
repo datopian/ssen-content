@@ -7,7 +7,7 @@
 
 ---
   
-<body>
+
 
 <table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white">
     <thead>
@@ -123,7 +123,7 @@
         </tr>
     </tbody>
 </table>
-</body>
+
  
 
 ---
