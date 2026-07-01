@@ -12,13 +12,13 @@
 <table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white">
     <thead>
         <tr style={{backgroundColor: '#2d3748'}}>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Dataset</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand the network</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Identify opportunities to reduce costs as an energy consumer</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Review network performance</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Identify opportunities for efficiency and grid optimisation</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand the impact of renewable energy on the grid</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Forecast future network demand</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Dataset</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Understand the network</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Identify opportunities to reduce costs as an energy consumer</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Review network performance</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Identify opportunities for efficiency and grid optimisation</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Understand the impact of renewable energy on the grid</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Forecast future network demand</th>
         </tr>
     </thead>
     <tbody>
