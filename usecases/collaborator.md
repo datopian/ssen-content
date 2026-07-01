@@ -12,13 +12,13 @@
 <table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white">
     <thead>
         <tr style={{backgroundColor: '#2d3748'}}>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Dataset</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Develop flexibility strategy, development, and innovation plans</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand energy predictions and plan energy usage by area</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand how your control room will deconflict with NESO control room</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand network performance and capacity</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Identify and understand trends around network usage</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Review adoption of renewable energy solutions</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Dataset</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Develop flexibility strategy, development, and innovation plans</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Understand energy predictions and plan energy usage by area</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Understand how your control room will deconflict with NESO control room</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Understand network performance and capacity</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Identify and understand trends around network usage</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Review adoption of renewable energy solutions</th>
         </tr>
     </thead>
     <tbody>
