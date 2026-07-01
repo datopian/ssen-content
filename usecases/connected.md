@@ -12,13 +12,13 @@
 <table style={{width: '100%', borderCollapse: 'collapse'}} className="bg-white">
     <thead>
         <tr style={{backgroundColor: '#2d3748'}}>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Dataset</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Understand how I can monetise my assets through flexibility services</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Review network reinforcements related to my application</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">See information on past and future outages</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">See real-time and near real-time connection performance data</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Optimise asset usage and efficiency</th>
-            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}} className="text-white bg-gray-800">Assess opportunities to further engage with the network</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}">Dataset</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}">Understand how I can monetise my assets through flexibility services</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Review network reinforcements related to my application</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>See information on past and future outages</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>See real-time and near real-time connection performance data</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Optimise asset usage and efficiency</th>
+            <th style={{border: '2px solid #4a5568', padding: '12px', verticalAlign: 'middle', textAlign: 'center', fontWeight: 'bold'}}>Assess opportunities to further engage with the network</th>
         </tr>
     </thead>
     <tbody>
