@@ -1,3 +1,8 @@
+---
+title: Embedded Capacity Register
+groups: connections, network-flexibility
+---
+
 # Embedded Capacity Register
 ### Data is vital for decarbonisation
 
