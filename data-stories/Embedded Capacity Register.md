@@ -1,6 +1,6 @@
 ---
 title: Embedded Capacity Register
-groups: connections, network-flexibility
+groups: connections, another-collection
 ---
 
 # Embedded Capacity Register

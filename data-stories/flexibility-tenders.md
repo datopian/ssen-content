@@ -1,7 +1,7 @@
 ---
 title: Flexibility Tenders Explained
 groups:
-  - network-flexibility
+  - another-collection
 ---
 
 # Flexibility Tenders Explained
