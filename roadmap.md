@@ -7,8 +7,6 @@ author: "Ronaldo"
 
 Welcome to our comprehensive guide for our strategic business initiatives and key milestones planned for 2024. This document outlines our priorities, major project timelines, and the exciting opportunities we aim to capture.
 
- <Timeline />
-
 
 ## Executive Summary
 
